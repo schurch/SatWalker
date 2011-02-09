@@ -1,0 +1,1023 @@
+TTest
+v7
+r0
+t300532751.497020
+cCheck dependencies
+c<C0009:'CompileC TFProductTest.o':P11:W0>
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c000000004C46C3F00000000000044BD0
+t1279706096
+s281552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C494D410000000000000132
+t1279872321
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004BFE177E00000000000008A5
+t1274943358
+s2213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004C5A5D4300000000000008A5
+t1280990531
+s2213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/Gps.h
+c000000004CCC89A6000000000000023E
+t1288472998
+s574
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/Gps.m
+c000000004CCC8AC600000000000005F3
+t1288473286
+s1523
+i"Gps.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/JSON.h
+c000000004B93BE5E00000000000008F9
+t1267973726
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/SubmissionService.h
+c000000004CF95BC100000000000001DC
+t1291410369
+s476
+i<Foundation/Foundation.h>
+i"Gps.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/SubmissionService.m
+c000000004CF963D400000000000011A5
+t1291412436
+s4517
+i"SubmissionService.h"
+i"JSON.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/MapContainer.xib
+c000000004C573F860000000000004328
+t1280786310
+s17192
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/SyntaxText.h
+c000000004C3266620000000000000394
+t1278371426
+s916
+i<SenTestingKit/SenTestingKit.h>
+i<UIKit/UIKit.h>
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/SyntaxText.m
+c000000004C33B038000000000000026C
+t1278455864
+s620
+i"SyntaxText.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/TFProductTest.m
+c000000004C33B7F800000000000002D8
+t1278457848
+s728
+i<SenTestingKit/SenTestingKit.h>
+i"TFProduct.h"
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest
+t1278457833
+s136
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest.dSYM
+t1278457833
+s102
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/Info.plist
+t1278454467
+s461
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/MapContainer.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/Test
+t1278457833
+s16148
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/map_icon.png
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/satwalker_icon.png
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/settings_icon.png
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Gps.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSString+SBJSON.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJSON.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonBase.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SubmissionService.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o
+t1278455864
+s14848
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.o
+t1278457832
+s12964
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Test.LinkFileList
+c000000004C33B36C00000000000001AF
+t1278456684
+s431
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh
+c000000004C33AAC30000000000000062
+t1278454467
+s98
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/map_icon.png
+c000000004AA6BA7A00000000000001FB
+t1252440698
+s507
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/satwalker_icon.png
+c000000004C39EC1700000000000012A3
+t1278864407
+s4771
+
+N/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/settings_icon.png
+c000000004971D1380000000000000177
+t1232195896
+s375
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/BoolSetting.h
+c000000004C4C6A9A0000000000000167
+t1280076442
+s359
+i<Foundation/Foundation.h>
+i"Setting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/BoolSetting.m
+c000000004C51F20F000000000000029D
+t1280438799
+s669
+i"BoolSetting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/Gps.h
+c000000004CCC89A6000000000000023E
+t1288472998
+s574
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/Gps.m
+c000000004CCC8AC600000000000005F3
+t1288473286
+s1523
+i"Gps.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/GpsSubmissionController.h
+c000000004C54669E0000000000000251
+t1280599710
+s593
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/GpsSubmissionController.m
+c000000004CCB3B0700000000000007F9
+t1288387335
+s2041
+i"GpsSubmissionController.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/JSON.h
+c000000004B93BE5E00000000000008F9
+t1267973726
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/NumberSetting.h
+c000000004CCC30EA000000000000010E
+t1288450282
+s270
+i<Foundation/Foundation.h>
+i"Setting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/NumberSetting.m
+c000000004CCC311C0000000000000139
+t1288450332
+s313
+i"NumberSetting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/Setting.h
+c000000004C4C6B750000000000000247
+t1280076661
+s583
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/Setting.m
+c000000004C4C6B8E0000000000000208
+t1280076686
+s520
+i"Setting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SettingsViewController.h
+c000000004C4C56970000000000000262
+t1280071319
+s610
+i<UIKit/UIKit.h>
+i"Setting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SettingsViewController.m
+c000000004C4C6B850000000000001276
+t1280076677
+s4726
+i"SettingsViewController.h"
+i"BoolSetting.h"
+i"StringSettingViewController.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SettingsViewController.xib
+c000000004C39DA8A00000000000048F0
+t1278859914
+s18672
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/StringSettingViewController.h
+c000000004C4C65630000000000000292
+t1280075107
+s658
+i<UIKit/UIKit.h>
+i"Setting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/StringSettingViewController.m
+c000000004C51FB93000000000000092C
+t1280441235
+s2348
+i"StringSettingViewController.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/StringSettingViewController.xib
+c000000004C43281B0000000000005756
+t1279469595
+s22358
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/StringSettingsView.xib
+c000000004C4C6EDD000000000000587E
+t1280077533
+s22654
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SubmissionService.h
+c000000004CCC8549000000000000031E
+t1288471881
+s798
+i<Foundation/Foundation.h>
+i"Gps.h"
+i"NumberSetting.h"
+i"UrlStringSetting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SubmissionService.m
+c000000004CCC8B110000000000001113
+t1288473361
+s4371
+i"SubmissionService.h"
+i"JSON.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TFProduct.h
+c000000004C33B7220000000000000115
+t1278457634
+s277
+i<Foundation/Foundation.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TFProduct.m
+c000000004C33B7680000000000000134
+t1278457704
+s308
+i"TFProduct.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TabViewController.h
+c000000004C39D66400000000000000EC
+t1278858852
+s236
+i<UIKit/UIKit.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TabViewController.m
+c000000004C39D66400000000000005A5
+t1278858852
+s1445
+i"TabViewController.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TabViewController.xib
+c000000004C39D68D0000000000004AFB
+t1278858893
+s19195
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/UrlStringSetting.h
+c000000004C4C6BBE00000000000000FF
+t1280076734
+s255
+i<Foundation/Foundation.h>
+i"Setting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/UrlStringSetting.m
+c000000004C4C6B650000000000000113
+t1280076645
+s275
+i"UrlStringSetting.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/MapContainer.xib
+c000000004C573F860000000000004328
+t1280786310
+s17192
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/SatWalker_icon.png
+c000000004C39EC1700000000000012A3
+t1278864407
+s4771
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.h
+c000000004C3266620000000000000394
+t1278371426
+s916
+i<SenTestingKit/SenTestingKit.h>
+i<UIKit/UIKit.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m
+c000000004C33B038000000000000026C
+t1278455864
+s620
+i"SyntaxText.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m
+c000000004C33B7F800000000000002D8
+t1278457848
+s728
+i<SenTestingKit/SenTestingKit.h>
+i"TFProduct.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Test.xcdatamodel
+c000000004C4CBD340000000000000088
+t1280097588
+s136
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest
+t1278457833
+s136
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest.dSYM
+t1278457833
+s102
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Info.plist
+t1278454467
+s461
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/MapContainer.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/SatWalker_icon.png
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/SettingsViewController.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/StringSettingViewController.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/StringSettingsView.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/TabViewController.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test
+t1278457833
+s16148
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test.mom
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test.octest
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/map_icon.png
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/satwalker_icon.png
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/settings_icon.png
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/BoolSetting.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Gps.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/GpsSubmissionController.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSString+SBJSON.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NumberSetting.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJSON.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonBase.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Setting.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SettingsViewController.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/StringSettingViewController.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SubmissionService.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o
+t1278455864
+s14848
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProduct.o
+t1278457737
+s6512
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.o
+t1278457832
+s12964
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.s
+t1278839951
+s45666
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TabViewController.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Test.LinkFileList
+c000000004C33B36C00000000000001AF
+t1278456684
+s431
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/UrlStringSetting.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh
+c000000004C33AAC30000000000000062
+t1278454467
+s98
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/StaticAnalyzer/normal/i386/SyntaxText.plist
+t1278454421
+s276
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/map_icon.png
+c000000004AA6BA7A00000000000001FB
+t1252440698
+s507
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/satwalker_icon.png
+c000000004C39EC1700000000000012A3
+t1278864407
+s4771
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/settings_icon.png
+c000000004971D1380000000000000177
+t1232195896
+s375
+
+NTest-Info.plist
+c000000004C3263DB0000000000000281
+t1278370779
+s641
+
+C<C0009:'CompileC TFProductTest.o':P11:W0>
+s300532750.996079
+e300532751.496962
+r1
+xCompileC
+xbuild/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.o
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m300532751#300532751#0(0"0(0#0#70"/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m8319383698887823360#2200"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap" -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap" "-F/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator" -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/include" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources/i386" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources" -S "/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m" -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.s"0#
+
+CAnalyze "/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m"
+s300147221.375663
+e300147221.539666
+r1
+xAnalyze
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m
+lSLF07#2@75"Analyze /Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m300147221#300147221#0(0"0(0#0#67"/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m8628617952#2203"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap" -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap" "-F/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator" -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/include" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources/i386" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources" --analyze "/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m" -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/StaticAnalyzer/normal/i386/SyntaxText.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300532750#300532750#0(0"0(0#1#0"31244212046397512#0"0#
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/BoolSetting.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/BoolSetting.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Gps.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/Gps.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Gps.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/Gps.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/GpsSubmissionController.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/GpsSubmissionController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSString+SBJSON.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NSString+SBJSON.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/NumberSetting.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/NumberSetting.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJSON.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJSON.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonBase.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonBase.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonParser.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonParser.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonWriter.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SBJsonWriter.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Setting.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/Setting.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SettingsViewController.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/StringSettingViewController.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/StringSettingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SubmissionService.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/Classes/SubmissionService.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SubmissionService.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SubmissionService.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/SyntaxText.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300149417.447885
+e300149417.449374
+r1
+xCompileC
+xbuild/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m300149417#300149417#0(223"/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m: In function '-[SyntaxText testObjectCreation]':/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m:31: warning: unused variable 'myDict'1(22@24"Unused variable 'myDict'300149417#117#106#0(6@67"/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m300148664#31#0#31#0#19"unused variable '*'0(0#0#67"/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m8632249344#2194"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap" -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap" "-F/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator" -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/include" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources/i386" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources" -c "/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m" -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o"0#
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProduct.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TFProduct.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300150537.420019
+e300150537.600720
+r1
+xCompileC
+xbuild/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProduct.o
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TFProduct.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TFProduct.m300150537#300150537#0(0"0(0#0#74"/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TFProduct.m8632498848#2200"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap" -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap" "-F/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator" -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/include" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources/i386" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources" -c "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TFProduct.m" -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProduct.o"0#
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.o "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/TFProductTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300150633.234849
+e300150633.236163
+r1
+xCompileC
+xbuild/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.o
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m300150633#300150633#0(0"0(0#0#70"/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m8632909088#2200"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap" -iquote "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap" "-F/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator" -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/include" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources/i386" "-I/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources" -c "/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m" -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TFProductTest.o"0#
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TabViewController.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TabViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/UrlStringSetting.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/UrlStringSetting.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/MapContainer.xib"
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SettingsViewController.xib"
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/StringSettingViewController.xib"
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/StringSettingsView.xib"
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/TabViewController.xib"
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/XCode Projects/SatWalker/MapContainer.xib"
+r0
+
+CCpResource build/Debug-iphonesimulator/Test.octest/SatWalker_icon.png SatWalker_icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Test.octest/Test.octest build/Debug-iphonesimulator/Test.octest
+r0
+
+CCpResource build/Debug-iphonesimulator/Test.octest/map_icon.png map_icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Test.octest/satwalker_icon.png satwalker_icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Test.octest/settings_icon.png settings_icon.png
+r0
+
+CDataModelCompile "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test.mom" "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Test.xcdatamodel"
+r0
+
+CGenerateDSYMFile "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest.dSYM" "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/Test"
+r0
+
+CGenerateDSYMFile "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest.dSYM" "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test"
+s300150633.269843
+e300150633.282068
+r1
+xGenerateDSYMFile
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest.dSYM
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Test.octest.dSYM build/Debug-iphonesimulator/Test.octest/Test300150633#300150633#0(0"0(0#0#99"/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test8634683872#496"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test" -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest.dSYM"0#
+
+CLd "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/Test" normal i386
+r0
+
+CLd "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test" normal i386
+s300150633.236350
+e300150633.269729
+r1
+xLd
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test
+xnormal
+xi386
+lSLF07#2@104"Link /Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test300150633#300150633#0(0"0(0#0#0"8634399264#1309"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator" "-F/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator" -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks -filelist "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Test.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -framework SenTestingKit -framework UIKit -Xlinker -objc_abi_version -Xlinker 2 -framework SenTestingKit -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Test"0#
+
+CPhaseScriptExecution "Run Script" "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/SatWalker.build/Debug-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh"
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh"
+s300150633.282174
+e300150633.543107
+r0
+xPhaseScriptExecution
+xRun Script
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh
+o/Developer/Tools/RunPlatformUnitTests.include:412: note: Started tests for architectures 'i386'
+o/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)
+oTest Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' started at 2010-07-07 00:10:33 +0100
+oTest Suite 'SyntaxText' started at 2010-07-07 00:10:33 +0100
+oTest Case '-[SyntaxText testObjectCreation]' started.
+oTest Case '-[SyntaxText testObjectCreation]' passed (0.000 seconds).
+oTest Case '-[SyntaxText testShouldPass]' started.
+oTest Case '-[SyntaxText testShouldPass]' passed (0.000 seconds).
+oTest Case '-[SyntaxText testString]' started.
+oTest Case '-[SyntaxText testString]' passed (0.000 seconds).
+oTest Suite 'SyntaxText' finished at 2010-07-07 00:10:33 +0100.
+oExecuted 3 tests, with 0 failures (0 unexpected) in 0.000 (0.001) seconds
+o
+oTest Suite 'TFProductTest' started at 2010-07-07 00:10:33 +0100
+oTest Case '-[TFProductTest testObjectType]' started.
+o/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m:32: error: -[TFProductTest testObjectType] : 'TFProduct' should be equal to 'TFProduct' 
+oTest Case '-[TFProductTest testObjectType]' failed (0.000 seconds).
+oTest Suite 'TFProductTest' finished at 2010-07-07 00:10:33 +0100.
+oExecuted 1 test, with 1 failure (0 unexpected) in 0.000 (0.001) seconds
+o
+oTest Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' finished at 2010-07-07 00:10:33 +0100.
+oExecuted 4 tests, with 1 failure (0 unexpected) in 0.000 (0.004) seconds
+o
+o/Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)
+o/Developer/Tools/RunPlatformUnitTests.include:462: note: Completed tests for architectures 'i386'
+lSLF07#2@36"Run custom shell script 'Run Script'300150633#300150633#1(20@47"Run unit tests for architecture 'i386' (GC OFF)300150633#300150633#1(20@116"Run test suite /Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)300150633#300150633#2(20@25"Run test suite SyntaxText300150633#300150633#3(20@32"Run test case testObjectCreation300150633#300150633#0(123"Test Case '-[SyntaxText testObjectCreation]' started.Test Case '-[SyntaxText testObjectCreation]' passed (0.000 seconds).0(0#0#0"13"0.000 seconds68"Test Case '-[SyntaxText testObjectCreation]' passed (0.000 seconds).18"testObjectCreation20@28"Run test case testShouldPass300150633#300150633#0(115"Test Case '-[SyntaxText testShouldPass]' started.Test Case '-[SyntaxText testShouldPass]' passed (0.000 seconds).0(0#0#0"13"0.000 seconds64"Test Case '-[SyntaxText testShouldPass]' passed (0.000 seconds).14"testShouldPass20@24"Run test case testString300150633#300150633#0(107"Test Case '-[SyntaxText testString]' started.Test Case '-[SyntaxText testString]' passed (0.000 seconds).0(0#0#0"13"0.000 seconds60"Test Case '-[SyntaxText testString]' passed (0.000 seconds).10"testString543"Test Suite 'SyntaxText' started at 2010-07-07 00:10:33 +0100Test Case '-[SyntaxText testObjectCreation]' started.Test Case '-[SyntaxText testObjectCreation]' passed (0.000 seconds).Test Case '-[SyntaxText testShouldPass]' started.Test Case '-[SyntaxText testShouldPass]' passed (0.000 seconds).Test Case '-[SyntaxText testString]' started.Test Case '-[SyntaxText testString]' passed (0.000 seconds).Test Suite 'SyntaxText' finished at 2010-07-07 00:10:33 +0100.Executed 3 tests, with 0 failures (0 unexpected) in 0.000 (0.001) seconds0(0#0#23"3 out of 3 tests passed13"0.001 seconds73"Executed 3 tests, with 0 failures (0 unexpected) in 0.000 (0.001) seconds10"SyntaxText20@28"Run test suite TFProductTest300150633#300150633#1(20@28"Run test case testObjectType300150633#300150633#0(281"Test Case '-[TFProductTest testObjectType]' started./Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m:32: error: -[TFProductTest testObjectType] : 'TFProduct' should be equal to 'TFProduct' Test Case '-[TFProductTest testObjectType]' failed (0.000 seconds).1(4@43"'TFProduct' should be equal to 'TFProduct' 300150633#18446744073709551615#0#0(6@70"/Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m300150632#32#0#32#0#0"0(0#0#0"13"0.000 seconds67"Test Case '-[TFProductTest testObjectType]' failed (0.000 seconds).14"testObjectType483"Test Suite 'TFProductTest' started at 2010-07-07 00:10:33 +0100Test Case '-[TFProductTest testObjectType]' started./Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m:32: error: -[TFProductTest testObjectType] : 'TFProduct' should be equal to 'TFProduct' Test Case '-[TFProductTest testObjectType]' failed (0.000 seconds).Test Suite 'TFProductTest' finished at 2010-07-07 00:10:33 +0100.Executed 1 test, with 1 failure (0 unexpected) in 0.000 (0.001) seconds0(0#0#22"0 out of 1 test passed13"0.001 seconds71"Executed 1 test, with 1 failure (0 unexpected) in 0.000 (0.001) seconds13"TFProductTest1407"Test Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' started at 2010-07-07 00:10:33 +0100Test Suite 'SyntaxText' started at 2010-07-07 00:10:33 +0100Test Case '-[SyntaxText testObjectCreation]' started.Test Case '-[SyntaxText testObjectCreation]' passed (0.000 seconds).Test Case '-[SyntaxText testShouldPass]' started.Test Case '-[SyntaxText testShouldPass]' passed (0.000 seconds).Test Case '-[SyntaxText testString]' started.Test Case '-[SyntaxText testString]' passed (0.000 seconds).Test Suite 'SyntaxText' finished at 2010-07-07 00:10:33 +0100.Executed 3 tests, with 0 failures (0 unexpected) in 0.000 (0.001) secondsTest Suite 'TFProductTest' started at 2010-07-07 00:10:33 +0100Test Case '-[TFProductTest testObjectType]' started./Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m:32: error: -[TFProductTest testObjectType] : 'TFProduct' should be equal to 'TFProduct' Test Case '-[TFProductTest testObjectType]' failed (0.000 seconds).Test Suite 'TFProductTest' finished at 2010-07-07 00:10:33 +0100.Executed 1 test, with 1 failure (0 unexpected) in 0.000 (0.001) secondsTest Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' finished at 2010-07-07 00:10:33 +0100.Executed 4 tests, with 1 failure (0 unexpected) in 0.000 (0.004) seconds0(0#0#23"3 out of 4 tests passed13"0.004 seconds72"Executed 4 tests, with 1 failure (0 unexpected) in 0.000 (0.004) seconds101"/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)1616"/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)Test Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' started at 2010-07-07 00:10:33 +0100Test Suite 'SyntaxText' started at 2010-07-07 00:10:33 +0100Test Case '-[SyntaxText testObjectCreation]' started.Test Case '-[SyntaxText testObjectCreation]' passed (0.000 seconds).Test Case '-[SyntaxText testShouldPass]' started.Test Case '-[SyntaxText testShouldPass]' passed (0.000 seconds).Test Case '-[SyntaxText testString]' started.Test Case '-[SyntaxText testString]' passed (0.000 seconds).Test Suite 'SyntaxText' finished at 2010-07-07 00:10:33 +0100.Executed 3 tests, with 0 failures (0 unexpected) in 0.000 (0.001) secondsTest Suite 'TFProductTest' started at 2010-07-07 00:10:33 +0100Test Case '-[TFProductTest testObjectType]' started./Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m:32: error: -[TFProductTest testObjectType] : 'TFProduct' should be equal to 'TFProduct' Test Case '-[TFProductTest testObjectType]' failed (0.000 seconds).Test Suite 'TFProductTest' finished at 2010-07-07 00:10:33 +0100.Executed 1 test, with 1 failure (0 unexpected) in 0.000 (0.001) secondsTest Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' finished at 2010-07-07 00:10:33 +0100.Executed 4 tests, with 1 failure (0 unexpected) in 0.000 (0.004) seconds/Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)0(0#0#0"0"103"/Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)0"1850"/Developer/Tools/RunPlatformUnitTests.include:412: note: Started tests for architectures 'i386'/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)Test Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' started at 2010-07-07 00:10:33 +0100Test Suite 'SyntaxText' started at 2010-07-07 00:10:33 +0100Test Case '-[SyntaxText testObjectCreation]' started.Test Case '-[SyntaxText testObjectCreation]' passed (0.000 seconds).Test Case '-[SyntaxText testShouldPass]' started.Test Case '-[SyntaxText testShouldPass]' passed (0.000 seconds).Test Case '-[SyntaxText testString]' started.Test Case '-[SyntaxText testString]' passed (0.000 seconds).Test Suite 'SyntaxText' finished at 2010-07-07 00:10:33 +0100.Executed 3 tests, with 0 failures (0 unexpected) in 0.000 (0.001) secondsTest Suite 'TFProductTest' started at 2010-07-07 00:10:33 +0100Test Case '-[TFProductTest testObjectType]' started./Users/stefanchurch/Documents/XCode Projects/SatWalker/TFProductTest.m:32: error: -[TFProductTest testObjectType] : 'TFProduct' should be equal to 'TFProduct' Test Case '-[TFProductTest testObjectType]' failed (0.000 seconds).Test Suite 'TFProductTest' finished at 2010-07-07 00:10:33 +0100.Executed 1 test, with 1 failure (0 unexpected) in 0.000 (0.001) secondsTest Suite '/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest(Tests)' finished at 2010-07-07 00:10:33 +0100.Executed 4 tests, with 1 failure (0 unexpected) in 0.000 (0.004) seconds/Developer/Tools/RunPlatformUnitTests.include:448: error: Failed tests for architecture 'i386' (GC OFF)/Developer/Tools/RunPlatformUnitTests.include:462: note: Completed tests for architectures 'i386'Command /bin/sh failed with exit code 11(4@39"Command /bin/sh failed with exit code 1300150633#18446744073709551615#0#0(1@0"0(0#0#0"8633473088#17910"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER stefanchurch    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build"    setenv BUILD_ROOT "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/j4/j4m-NG8VGVCvSz0UAo7Cj++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j4/j4m-NG8VGVCvSz0UAo7Cj++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest"    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j4/j4m-NG8VGVCvSz0UAo7Cj++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH Test.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/SatWalker.dst    setenv DWARF_DSYM_FILE_NAME Test.octest.dSYM    setenv DWARF_DSYM_FOLDER_PATH "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Test.octest/Executables    setenv EXECUTABLE_FOLDER_PATH Test.octest    setenv EXECUTABLE_NAME Test    setenv EXECUTABLE_PATH Test.octest/Test    setenv FILE_LIST "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH Test.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator\" /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Test.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE NO    setenv GCC_ENABLE_OBJC_EXCEPTIONS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Test-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Test.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/SatWalker.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER stefanchurch    setenv INSTALL_ROOT /tmp/SatWalker.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Test.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Test-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Test.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Objects-normal"    setenv OBJROOT "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework Foundation -framework SenTestingKit -framework UIKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Test.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/PkgInfo"    setenv PKGINFO_PATH Test.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Test.octest/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Test.octest/PrivateHeaders    setenv PRODUCT_NAME Test    setenv PRODUCT_SETTINGS_PATH "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Test-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT SatWalker    setenv PROJECT_DERIVED_FILE_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/DerivedSources"    setenv PROJECT_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv PROJECT_FILE_PATH "/Users/stefanchurch/Documents/XCode Projects/SatWalker/SatWalker.xcodeproj"    setenv PROJECT_NAME SatWalker    setenv PROJECT_TEMP_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build"    setenv PUBLIC_HEADERS_FOLDER_PATH Test.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Test.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_NAME iphonesimulator4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH Test.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/j4/j4m-NG8VGVCvSz0UAo7Cj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Test.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv SRCROOT "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/SymbolRepositories"    setenv SYMROOT "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Test    setenv TARGET_BUILD_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator"    setenv TARGET_NAME Test    setenv TARGET_TEMP_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build"    setenv TEMP_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build"    setenv TEMP_FILES_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build"    setenv TEMP_FILE_DIR "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build"    setenv TEMP_ROOT "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Test.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER stefanchurch    setenv USER_APPS_DIR /Users/stefanchurch/Applications    setenv USER_LIBRARY_DIR /Users/stefanchurch/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Test.octest/version.plist    setenv VERSION_INFO_BUILDER stefanchurch    setenv VERSION_INFO_FILE Test_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Test  PROJECT:SatWalker-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME Test.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c "\"/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Debug-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh\""1#
+
+CProcessInfoPlistFile "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest/Info.plist" Test-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Info.plist" Test-Info.plist
+s300147267.492053
+e300147267.495442
+r1
+xProcessInfoPlistFile
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Info.plist
+xTest-Info.plist
+lSLF07#2@23"Process Test-Info.plist300147267#300147267#0(0"0(0#0#70"/Users/stefanchurch/Documents/XCode Projects/SatWalker/Test-Info.plist8633250368#475"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Test-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest/Info.plist"0#
+
+CTouch "/Users/stefanchurch/Documents/Source Code/SatWalker/Mobile/build/Debug-iphonesimulator/Test.octest"
+r0
+
+CTouch "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest"
+s300150633.543189
+e300150633.547160
+r1
+xTouch
+x/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest
+lSLF07#2@100"Touch /Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest300150633#300150633#0(0"0(0#0#0"8633721952#376"    cd "/Users/stefanchurch/Documents/XCode Projects/SatWalker"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Debug-iphonesimulator/Test.octest"0#
+

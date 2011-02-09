@@ -1,0 +1,577 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* SatWalkerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* SatWalkerAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		FD0BA04D12A9972D0035087D /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FD0BA04C12A9972D0035087D /* Settings.bundle */; };
+		FD0C787F1205A0B400DEA688 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD0C787E1205A0B400DEA688 /* CoreLocation.framework */; };
+		FD10CF6A11E0C76E002A4622 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD10CF6811E0C76E002A4622 /* MapViewController.m */; };
+		FD10CFED11E0D094002A4622 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD10CFEC11E0D094002A4622 /* MapKit.framework */; };
+		FD2C391811E29C3A00929F98 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD2C391011E29BCA00929F98 /* SenTestingKit.framework */; };
+		FD2C391E11E29CAA00929F98 /* SyntaxText.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2C391B11E29C7700929F98 /* SyntaxText.m */; };
+		FD81DD6712022E3300C5A5D3 /* MapContainer.xib in Resources */ = {isa = PBXBuildFile; fileRef = FD81DD6612022E3300C5A5D3 /* MapContainer.xib */; };
+		FD81DD6812022E3300C5A5D3 /* MapContainer.xib in Resources */ = {isa = PBXBuildFile; fileRef = FD81DD6612022E3300C5A5D3 /* MapContainer.xib */; };
+		FDB5CF0D1204535100FAEF4B /* Gps.m in Sources */ = {isa = PBXBuildFile; fileRef = FDB5CF0C1204535100FAEF4B /* Gps.m */; };
+		FDB5CF0E1204535100FAEF4B /* Gps.m in Sources */ = {isa = PBXBuildFile; fileRef = FDB5CF0C1204535100FAEF4B /* Gps.m */; };
+		FDB5CF1A12047F9B00FAEF4B /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB5CF1912047F9B00FAEF4B /* location.png */; };
+		FDD5C71A11E3E9E6001E77BB /* TFProductTest.m in Sources */ = {isa = PBXBuildFile; fileRef = FDD5C71911E3E9E6001E77BB /* TFProductTest.m */; };
+		FDE376E711FCBCF2005E8C11 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376DC11FCBCF2005E8C11 /* NSObject+SBJSON.m */; };
+		FDE376E811FCBCF2005E8C11 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376DE11FCBCF2005E8C11 /* NSString+SBJSON.m */; };
+		FDE376E911FCBCF2005E8C11 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E011FCBCF2005E8C11 /* SBJSON.m */; };
+		FDE376EA11FCBCF2005E8C11 /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E211FCBCF2005E8C11 /* SBJsonBase.m */; };
+		FDE376EB11FCBCF2005E8C11 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E411FCBCF2005E8C11 /* SBJsonParser.m */; };
+		FDE376EC11FCBCF2005E8C11 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E611FCBCF2005E8C11 /* SBJsonWriter.m */; };
+		FDE376ED11FCBCF2005E8C11 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376DC11FCBCF2005E8C11 /* NSObject+SBJSON.m */; };
+		FDE376EE11FCBCF2005E8C11 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376DE11FCBCF2005E8C11 /* NSString+SBJSON.m */; };
+		FDE376EF11FCBCF2005E8C11 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E011FCBCF2005E8C11 /* SBJSON.m */; };
+		FDE376F011FCBCF2005E8C11 /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E211FCBCF2005E8C11 /* SBJsonBase.m */; };
+		FDE376F111FCBCF2005E8C11 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E411FCBCF2005E8C11 /* SBJsonParser.m */; };
+		FDE376F211FCBCF2005E8C11 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = FDE376E611FCBCF2005E8C11 /* SBJsonWriter.m */; };
+		FDE881E511F3C6F8006519C3 /* MapView.xib in Resources */ = {isa = PBXBuildFile; fileRef = FDE881E411F3C6F8006519C3 /* MapView.xib */; };
+		FDF9C630127C554700B250EC /* SubmissionService.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF9C62F127C554700B250EC /* SubmissionService.m */; };
+		FDF9C631127C554700B250EC /* SubmissionService.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF9C62F127C554700B250EC /* SubmissionService.m */; };
+		FDFDDCE011EA07DF0007BC73 /* map_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FDFDDCDF11EA07DF0007BC73 /* map_icon.png */; };
+		FDFDDCE111EA07DF0007BC73 /* map_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FDFDDCDF11EA07DF0007BC73 /* map_icon.png */; };
+		FDFDDCE311EA08690007BC73 /* settings_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FDFDDCE211EA08690007BC73 /* settings_icon.png */; };
+		FDFDDCE411EA08690007BC73 /* settings_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FDFDDCE211EA08690007BC73 /* settings_icon.png */; };
+		FDFDDDB211EA23BE0007BC73 /* satwalker_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FDFDDDB111EA23BE0007BC73 /* satwalker_icon.png */; };
+		FDFDDDB311EA23BE0007BC73 /* satwalker_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FDFDDDB111EA23BE0007BC73 /* satwalker_icon.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FD2C391611E29C3000929F98 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1D6058900D05DD3D006BFB54;
+			remoteInfo = SatWalker;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* SatWalkerAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SatWalkerAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* SatWalkerAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SatWalkerAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* SatWalker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SatWalker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* SatWalker_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SatWalker_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* SatWalker-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SatWalker-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		FD0BA04C12A9972D0035087D /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		FD0C787E1205A0B400DEA688 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		FD10CF6711E0C76E002A4622 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		FD10CF6811E0C76E002A4622 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		FD10CFEC11E0D094002A4622 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		FD2C390611E29B5B00929F98 /* Test.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD2C390711E29B5B00929F98 /* Test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Test-Info.plist"; sourceTree = "<group>"; };
+		FD2C391011E29BCA00929F98 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		FD2C391A11E29C7700929F98 /* SyntaxText.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SyntaxText.h; sourceTree = "<group>"; };
+		FD2C391B11E29C7700929F98 /* SyntaxText.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SyntaxText.m; sourceTree = "<group>"; };
+		FD81DD6612022E3300C5A5D3 /* MapContainer.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MapContainer.xib; sourceTree = "<group>"; };
+		FDB5CF0B1204535100FAEF4B /* Gps.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Gps.h; sourceTree = "<group>"; };
+		FDB5CF0C1204535100FAEF4B /* Gps.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Gps.m; sourceTree = "<group>"; };
+		FDB5CF1912047F9B00FAEF4B /* location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = location.png; sourceTree = "<group>"; };
+		FDD5C71911E3E9E6001E77BB /* TFProductTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFProductTest.m; sourceTree = "<group>"; };
+		FDE376DA11FCBCF2005E8C11 /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
+		FDE376DB11FCBCF2005E8C11 /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJSON.h"; sourceTree = "<group>"; };
+		FDE376DC11FCBCF2005E8C11 /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJSON.m"; sourceTree = "<group>"; };
+		FDE376DD11FCBCF2005E8C11 /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+SBJSON.h"; sourceTree = "<group>"; };
+		FDE376DE11FCBCF2005E8C11 /* NSString+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+SBJSON.m"; sourceTree = "<group>"; };
+		FDE376DF11FCBCF2005E8C11 /* SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJSON.h; sourceTree = "<group>"; };
+		FDE376E011FCBCF2005E8C11 /* SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJSON.m; sourceTree = "<group>"; };
+		FDE376E111FCBCF2005E8C11 /* SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonBase.h; sourceTree = "<group>"; };
+		FDE376E211FCBCF2005E8C11 /* SBJsonBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonBase.m; sourceTree = "<group>"; };
+		FDE376E311FCBCF2005E8C11 /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
+		FDE376E411FCBCF2005E8C11 /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
+		FDE376E511FCBCF2005E8C11 /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
+		FDE376E611FCBCF2005E8C11 /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		FDE881E411F3C6F8006519C3 /* MapView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapView.xib; sourceTree = "<group>"; };
+		FDF9C62E127C554700B250EC /* SubmissionService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubmissionService.h; sourceTree = "<group>"; };
+		FDF9C62F127C554700B250EC /* SubmissionService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubmissionService.m; sourceTree = "<group>"; };
+		FDFDDCDF11EA07DF0007BC73 /* map_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = map_icon.png; sourceTree = "<group>"; };
+		FDFDDCE211EA08690007BC73 /* settings_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings_icon.png; sourceTree = "<group>"; };
+		FDFDDDB111EA23BE0007BC73 /* satwalker_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = satwalker_icon.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				FD10CFED11E0D094002A4622 /* MapKit.framework in Frameworks */,
+				FD0C787F1205A0B400DEA688 /* CoreLocation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2C390311E29B5B00929F98 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD2C391811E29C3A00929F98 /* SenTestingKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FDE376D911FCBCF2005E8C11 /* JSON */,
+				FDDE459711ECF68B000C60CF /* Model */,
+				FDDE459511ECF67D000C60CF /* Controllers */,
+				1D3623240D0F684500981E51 /* SatWalkerAppDelegate.h */,
+				1D3623250D0F684500981E51 /* SatWalkerAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* SatWalker.app */,
+				FD2C390611E29B5B00929F98 /* Test.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				FD2C391511E29BF400929F98 /* Tests */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				FD2C390711E29B5B00929F98 /* Test-Info.plist */,
+				FD0C787E1205A0B400DEA688 /* CoreLocation.framework */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* SatWalker_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FD0BA04C12A9972D0035087D /* Settings.bundle */,
+				FD81DD6312022B6F00C5A5D3 /* Images */,
+				FD81DD6212022B5800C5A5D3 /* Nibs */,
+				8D1107310486CEB800E47090 /* SatWalker-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FD10CFEC11E0D094002A4622 /* MapKit.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				FD2C391011E29BCA00929F98 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FD2C391511E29BF400929F98 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				FD2C391A11E29C7700929F98 /* SyntaxText.h */,
+				FD2C391B11E29C7700929F98 /* SyntaxText.m */,
+				FDD5C71911E3E9E6001E77BB /* TFProductTest.m */,
+			);
+			name = Tests;
+			sourceTree = "<group>";
+		};
+		FD81DD6212022B5800C5A5D3 /* Nibs */ = {
+			isa = PBXGroup;
+			children = (
+				FD81DD6612022E3300C5A5D3 /* MapContainer.xib */,
+				FDE881E411F3C6F8006519C3 /* MapView.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+			);
+			name = Nibs;
+			sourceTree = "<group>";
+		};
+		FD81DD6312022B6F00C5A5D3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				FDB5CF1912047F9B00FAEF4B /* location.png */,
+				FDFDDDB111EA23BE0007BC73 /* satwalker_icon.png */,
+				FDFDDCE211EA08690007BC73 /* settings_icon.png */,
+				FDFDDCDF11EA07DF0007BC73 /* map_icon.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		FDDE459511ECF67D000C60CF /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FDB5CF0B1204535100FAEF4B /* Gps.h */,
+				FDB5CF0C1204535100FAEF4B /* Gps.m */,
+				FD10CF6711E0C76E002A4622 /* MapViewController.h */,
+				FD10CF6811E0C76E002A4622 /* MapViewController.m */,
+				FDF9C62E127C554700B250EC /* SubmissionService.h */,
+				FDF9C62F127C554700B250EC /* SubmissionService.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		FDDE459711ECF68B000C60CF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		FDE376D911FCBCF2005E8C11 /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				FDE376DA11FCBCF2005E8C11 /* JSON.h */,
+				FDE376DB11FCBCF2005E8C11 /* NSObject+SBJSON.h */,
+				FDE376DC11FCBCF2005E8C11 /* NSObject+SBJSON.m */,
+				FDE376DD11FCBCF2005E8C11 /* NSString+SBJSON.h */,
+				FDE376DE11FCBCF2005E8C11 /* NSString+SBJSON.m */,
+				FDE376DF11FCBCF2005E8C11 /* SBJSON.h */,
+				FDE376E011FCBCF2005E8C11 /* SBJSON.m */,
+				FDE376E111FCBCF2005E8C11 /* SBJsonBase.h */,
+				FDE376E211FCBCF2005E8C11 /* SBJsonBase.m */,
+				FDE376E311FCBCF2005E8C11 /* SBJsonParser.h */,
+				FDE376E411FCBCF2005E8C11 /* SBJsonParser.m */,
+				FDE376E511FCBCF2005E8C11 /* SBJsonWriter.h */,
+				FDE376E611FCBCF2005E8C11 /* SBJsonWriter.m */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* SatWalker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SatWalker" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SatWalker;
+			productName = SatWalker;
+			productReference = 1D6058910D05DD3D006BFB54 /* SatWalker.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FD2C390511E29B5B00929F98 /* Test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FD2C390A11E29B5C00929F98 /* Build configuration list for PBXNativeTarget "Test" */;
+			buildPhases = (
+				FD2C390111E29B5B00929F98 /* Resources */,
+				FD2C390211E29B5B00929F98 /* Sources */,
+				FD2C390311E29B5B00929F98 /* Frameworks */,
+				FD2C390411E29B5B00929F98 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FD2C391711E29C3000929F98 /* PBXTargetDependency */,
+			);
+			name = Test;
+			productName = Test;
+			productReference = FD2C390611E29B5B00929F98 /* Test.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SatWalker" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* SatWalker */,
+				FD2C390511E29B5B00929F98 /* Test */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				FDFDDCE111EA07DF0007BC73 /* map_icon.png in Resources */,
+				FDFDDCE411EA08690007BC73 /* settings_icon.png in Resources */,
+				FDFDDDB211EA23BE0007BC73 /* satwalker_icon.png in Resources */,
+				FDE881E511F3C6F8006519C3 /* MapView.xib in Resources */,
+				FD81DD6712022E3300C5A5D3 /* MapContainer.xib in Resources */,
+				FDB5CF1A12047F9B00FAEF4B /* location.png in Resources */,
+				FD0BA04D12A9972D0035087D /* Settings.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2C390111E29B5B00929F98 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FDFDDCE011EA07DF0007BC73 /* map_icon.png in Resources */,
+				FDFDDCE311EA08690007BC73 /* settings_icon.png in Resources */,
+				FDFDDDB311EA23BE0007BC73 /* satwalker_icon.png in Resources */,
+				FD81DD6812022E3300C5A5D3 /* MapContainer.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		FD2C390411E29B5B00929F98 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* SatWalkerAppDelegate.m in Sources */,
+				FD10CF6A11E0C76E002A4622 /* MapViewController.m in Sources */,
+				FDE376E711FCBCF2005E8C11 /* NSObject+SBJSON.m in Sources */,
+				FDE376E811FCBCF2005E8C11 /* NSString+SBJSON.m in Sources */,
+				FDE376E911FCBCF2005E8C11 /* SBJSON.m in Sources */,
+				FDE376EA11FCBCF2005E8C11 /* SBJsonBase.m in Sources */,
+				FDE376EB11FCBCF2005E8C11 /* SBJsonParser.m in Sources */,
+				FDE376EC11FCBCF2005E8C11 /* SBJsonWriter.m in Sources */,
+				FDB5CF0D1204535100FAEF4B /* Gps.m in Sources */,
+				FDF9C631127C554700B250EC /* SubmissionService.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2C390211E29B5B00929F98 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD2C391E11E29CAA00929F98 /* SyntaxText.m in Sources */,
+				FDD5C71A11E3E9E6001E77BB /* TFProductTest.m in Sources */,
+				FDE376ED11FCBCF2005E8C11 /* NSObject+SBJSON.m in Sources */,
+				FDE376EE11FCBCF2005E8C11 /* NSString+SBJSON.m in Sources */,
+				FDE376EF11FCBCF2005E8C11 /* SBJSON.m in Sources */,
+				FDE376F011FCBCF2005E8C11 /* SBJsonBase.m in Sources */,
+				FDE376F111FCBCF2005E8C11 /* SBJsonParser.m in Sources */,
+				FDE376F211FCBCF2005E8C11 /* SBJsonWriter.m in Sources */,
+				FDB5CF0E1204535100FAEF4B /* Gps.m in Sources */,
+				FDF9C630127C554700B250EC /* SubmissionService.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FD2C391711E29C3000929F98 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1D6058900D05DD3D006BFB54 /* SatWalker */;
+			targetProxy = FD2C391611E29C3000929F98 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_FRAMEWORKS_DIR)\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SatWalker_Prefix.pch;
+				INFOPLIST_FILE = "SatWalker-Info.plist";
+				PRODUCT_NAME = SatWalker;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_FRAMEWORKS_DIR)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SatWalker_Prefix.pch;
+				INFOPLIST_FILE = "SatWalker-Info.plist";
+				PRODUCT_NAME = SatWalker;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Release;
+		};
+		FD2C390811E29B5C00929F98 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INFOPLIST_FILE = "Test-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					SenTestingKit,
+					"-framework",
+					UIKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = Test;
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		FD2C390911E29B5C00929F98 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				INFOPLIST_FILE = "Test-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					SenTestingKit,
+					"-framework",
+					UIKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = Test;
+				WRAPPER_EXTENSION = octest;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SatWalker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SatWalker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FD2C390A11E29B5C00929F98 /* Build configuration list for PBXNativeTarget "Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD2C390811E29B5C00929F98 /* Debug */,
+				FD2C390911E29B5C00929F98 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

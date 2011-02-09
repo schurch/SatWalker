@@ -1,0 +1,90 @@
+TTest
+v7
+r1
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c000000004BD135680000000000044BD0
+t1272001896
+s281552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2FB9C50000000000000132
+t1278196165
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004BFE177E00000000000008A5
+t1274943358
+s2213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.h
+c000000004C3266620000000000000394
+t1278371426
+s916
+i<SenTestingKit/SenTestingKit.h>
+i<UIKit/UIKit.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m
+c000000004C326619000000000000032B
+t1278371353
+s811
+i"SyntaxText.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest.dSYM
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest/Info.plist
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest/Test
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/Test.build/Objects-normal/i386/Test.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NTest-Info.plist
+c000000004C3263DB0000000000000281
+t1278370779
+s641
+
+CCompileC build/SatWalker.build/Release-iphonesimulator/Test.build/Objects-normal/i386/SyntaxText.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/SyntaxText.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CGenerateDSYMFile "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest.dSYM" "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest/Test"
+r0
+
+CLd "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest/Test" normal i386
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/Test.build/Script-FD2C390411E29B5B00929F98.sh"
+r0
+
+CProcessInfoPlistFile "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest/Info.plist" Test-Info.plist
+r0
+
+CTouch "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/Test.octest"
+r0
+

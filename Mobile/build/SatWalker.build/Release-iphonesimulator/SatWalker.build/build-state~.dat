@@ -1,0 +1,198 @@
+TSatWalker
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2FB9C50000000000000132
+t1278196165
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapAnnotation.h
+c000000004C33964C000000000000016B
+t1278449228
+s363
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapAnnotation.m
+c000000004C33974C0000000000000158
+t1278449484
+s344
+i"MapAnnotation.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapViewController.h
+c000000004C32538D0000000000000162
+t1278366605
+s354
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapViewController.m
+c000000004C3395C500000000000007B2
+t1278449093
+s1970
+i"MapViewController.h"
+i"MapAnnotation.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapViewController.xib
+c000000004C3253AA0000000000004331
+t1278366634
+s17201
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SatWalkerAppDelegate.h
+c000000004C3094C600000000000001D7
+t1278252230
+s471
+i<UIKit/UIKit.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SatWalkerAppDelegate.m
+c000000004C3093570000000000000B49
+t1278251863
+s2889
+i"SatWalkerAppDelegate.h"
+i"MapViewController.h"
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/MainWindow.xib
+c000000004C308F9D0000000000002112
+t1278250909
+s8466
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/SatWalker_Prefix.pch
+c000000004C308F9D00000000000000BB
+t1278250909
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app.dSYM
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/Info.plist
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/MainWindow.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/MapViewController.nib
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/PkgInfo
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/SatWalker
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/MapAnnotation.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/MapViewController.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/SatWalker.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/SatWalkerAppDelegate.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/stefanchurch/Documents/XCode Projects/SatWalker/main.m
+c000000004C308F9D000000000000016F
+t1278250909
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/j4/j4m-NG8VGVCvSz0UAo7Cj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SatWalker_Prefix-byimzhzhbzknklfjyiijstmbbdnu/SatWalker_Prefix.pch.gch
+t2
+s0
+
+NSatWalker-Info.plist
+c000000004C308F9D000000000000038D
+t1278250909
+s909
+
+CCompileC build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/MapAnnotation.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/MapViewController.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/SatWalkerAppDelegate.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SatWalkerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SatWalker.build/Release-iphonesimulator/SatWalker.build/Objects-normal/i386/main.o "/Users/stefanchurch/Documents/XCode Projects/SatWalker/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/MapViewController.xib"
+r0
+
+CCompileXIB "/Users/stefanchurch/Documents/XCode Projects/SatWalker/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app.dSYM" "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/SatWalker"
+r0
+
+CLd "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/SatWalker" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app/Info.plist" SatWalker-Info.plist
+r0
+
+CProcessPCH /var/folders/j4/j4m-NG8VGVCvSz0UAo7Cj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SatWalker_Prefix-byimzhzhbzknklfjyiijstmbbdnu/SatWalker_Prefix.pch.gch SatWalker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/stefanchurch/Documents/XCode Projects/SatWalker/build/Release-iphonesimulator/SatWalker.app"
+r0
+

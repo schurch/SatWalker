@@ -1,0 +1,2 @@
+/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SettingsViewController.m: In function '-[SettingsViewController tableView:cellForRowAtIndexPath:]':
+/Users/stefanchurch/Documents/XCode Projects/SatWalker/Classes/SettingsViewController.m:30: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
